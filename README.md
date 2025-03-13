@@ -4,7 +4,7 @@ This interactive dashboard provides insights into the QS World University Rankin
 
 ![Screenshot (111)](https://github.com/user-attachments/assets/16656998-de69-4167-bd24-295974ea0024)
 
-**Key Features from this dashboard includes:**
+**Key Features from this dashboard include:**
 
 _Search Functionality:_ Users can search for specific universities to view their rankings and scores.
 
