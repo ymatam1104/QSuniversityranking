@@ -4,7 +4,8 @@ This interactive dashboard provides insights into the QS World University Rankin
 
 ![Screenshot (111)](https://github.com/user-attachments/assets/16656998-de69-4167-bd24-295974ea0024)
 
-**Key Features**
+**Key Features from this dashboard includes:**
+
 _Search Functionality:_ Users can search for specific universities to view their rankings and scores.
 
 _University Distribution by Country:_ Visualizes the number of universities by country (e.g., 26, 159, 19, 13, 35).
